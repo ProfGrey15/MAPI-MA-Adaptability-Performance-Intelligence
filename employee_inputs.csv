@@ -1,0 +1,14 @@
+Employee_ID,Department,Employee_Type,Month,Performance,role_change,team_change,leadership_change,technology_change,process_change,culture_change,location_environment_change
+E201,Finance,Resilient,-6,69.8,16,34,88,22,74,89,100
+E201,Finance,Resilient,-5,69.8,16,34,88,22,74,89,100
+E201,Finance,Resilient,-4,69.8,16,34,88,22,74,89,100
+E201,Finance,Resilient,-3,69.8,16,34,88,22,74,89,100
+E201,Finance,Resilient,-2,69.8,16,34,88,22,74,89,100
+E201,Finance,Resilient,-1,69.8,16,34,88,22,74,89,100
+E201,Finance,Resilient,0,60.0,16,34,88,22,74,89,100
+E201,Finance,Resilient,1,60.0,16,34,88,22,74,89,100
+E201,Finance,Resilient,2,60.0,16,34,88,22,74,89,100
+E201,Finance,Resilient,3,60.0,16,34,88,22,74,89,100
+E201,Finance,Resilient,4,60.0,16,34,88,22,74,89,100
+E201,Finance,Resilient,5,60.0,16,34,88,22,74,89,100
+E201,Finance,Resilient,6,60.0,16,34,88,22,74,89,100
